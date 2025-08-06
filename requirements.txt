@@ -6,3 +6,4 @@ tensorflow
 matplotlib
 joblib
 plotly
+seaborn
